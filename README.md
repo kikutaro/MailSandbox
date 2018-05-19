@@ -7,7 +7,7 @@ Unit Test Sample with [GreenMail](http://www.icegreen.com/greenmail/).
 - JavaMailSandbox
 Sample code with [JavaMail](https://javaee.github.io/javamail/).
 - MailAddressVerificationSandbox
-Email Validation Sample with [Apache Commons Validator](https://commons.apache.org/proper/commons-validator/) and [Beans Validation(Hibernate Validator)](http://hibernate.org/validator/).
+Email Validation Sample with [Apache Commons Validator](https://commons.apache.org/proper/commons-validator/) and [Bean Validation(Hibernate Validator)](http://hibernate.org/validator/).
 - MailSlurpSandbox
 Now Preparing. [MailSlurp](https://www.mailslurp.com/) is E2E Email Test Web Service.
 - SenderAuthenticationSandbox
